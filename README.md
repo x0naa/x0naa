@@ -1,15 +1,12 @@
 ## Hello, I'm xona, project creator and sometimes developer ;)
 <div align="center">
-  <a href="https://github.com/x0naa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=x0naa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0naa&layout=compact&langs_count=7&theme=dracula"/>
+    <img src="https://lanyard.cnrad.dev/api/979842381606166608">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://lanyard.cnrad.dev/api/979842381606166608">
 </div>
   
   ##
