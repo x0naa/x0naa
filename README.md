@@ -1,24 +1,24 @@
-## Hello, I'm xona, project creator and sometimes developer ;)
-<div align="center">
-    <img src="https://lanyard.cnrad.dev/api/979842381606166608">
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://github.com/x0naa" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/x0naa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://github.com/x0naa" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://github.com/x0naa" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:xonadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/x0naa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<h1 align="center">Hello! I'm x0na</h1>
+
+
+- 💻 Hobbyist developer
+- 💼 Currently working on <a target="blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">**Free Money**</a>
+- 🕸 Portfolio: **soon**
+
+
+## 📕 Projects
+
+- <a href="https://github.com/x0naa/Discord-Token"><img src="https://raw.githubusercontent.com/x0naa/Discord-Token/main/discord-token/img/icon.png" width="15px" height="15px"/></a> Extension to login with your Discord Token.  [(Click to view)](https://github.com/x0naa/Discord-Token)
+- <a href="https://github.com/x0naa/Profile-Card"><img src="http://pngwebicons.com/uploads/id-card/512/id-card_icon8941.png" width="15px" height="15px"/></a> Profile Card HTML/CSS/JS project, easy to use and quick to set up.  [(Click to view)](https://github.com/x0naa/Profile-Card)
+- Other of my projects are private. 😔
+
+## 📈 Statistics 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=x0naa&label=PROFILE+VIEWS&color=4B18B8&style=square" alt="ezzud" /> </p>
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=x0naa&bg_color=333a9e&color=ffffff&line=5350fb&point=52fcff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+## ✉️ Contacts
+ <p align="center"> <img src="https://lanyard.cnrad.dev/api/979842381606166608"> </p>
